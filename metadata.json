@@ -1,0 +1,6 @@
+{
+  "name": "Secured Pension",
+  "description": "Secured Pension management mobile platform featuring Redux Saga architecture and biometric safe login simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
